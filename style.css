@@ -1,0 +1,53 @@
+body
+{
+	background-image: url("neon-background-wallpaper-scaled.jpg");
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgb(62, 12, 226);
+border-radius: 10px;
+border-top: 10px solid #1fe4b2;
+padding: 10px;
+float: none;
+text-align: left;
+height: 60px;
+width:200px;
+}
+#number1, #number2{
+	width: 250px;
+	height: 50px;
+	background-color: aquamarine;
+	border:5px solid purple;
+	border-radius:10px;
+}
+#send_button{
+	width:200px;
+	height:60px;
+	border: 5px solid cornflowerblue;
+	border-radius: 10px;
+	background-color: dodgerblue;
+}
+
